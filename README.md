@@ -2,7 +2,7 @@
 
 ####  I’m interested in tech, reading and learning to play musical instruments.
 #### 🌱 I’m currently studying Software Engineering at the University of Bedfordshire and also enrolled on a software engineering bootcamp through HyperionDev where I learned how to code in Python.
-### 📫 Feel free to connect via [LinkeIn](www.linkedin.com/in/mihai-corcodel-ab5022b4)
+### 📫 Feel free to connect via [LinkeIn](https://www.linkedin.com/in/mihai-corcodel-ab5022b4/)
 ## ⚡ Fun fact:
   #### * I speak two languages fluently, Romanian and English, and I am currently learning Italian.
 
