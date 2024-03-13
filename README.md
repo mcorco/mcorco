@@ -1,12 +1,17 @@
 # 👋 Hi, I’m Mihai Corcodel  
+
 ### About me:
 
-**Transitioning from a successful career as a transport manager and HGV driver to pursue my passion for technology. Joined the University of Bedfordshire in September 2023 and enrolled in HyperionDev's software engineering bootcamp in November 2023 to enhance coding abilities. Keen to explore opportunities for professional growth, including securing my first Software Engineer summer intern role. Confident in my ability to adapt, learn quickly, and deliver results, I am fully prepared to dedicate myself to achieving success in this exciting and dynamic field.**
+**I am transitioning from a successful career as a transport manager and HGV driver to pursue my passion for technology. I joined the University of Bedfordshire in September 2023 to study software engineering and enrolled in HyperionDev's software engineering bootcamp in November 2023 to enhance my coding abilities. I am keen to explore opportunities for professional growth, including securing my first Software Engineer summer intern role. Confident in my ability to adapt, learn quickly, and deliver results, I am fully prepared to dedicate myself to achieving success in this exciting and dynamic field.**
+
 ##
+
 ### Skills:
 - **Programing Languages**: HTML, CSS, Pyhton and Java.
 - **Other Skills**: SQL, Object-oriented programing, Systems design, Organisational skills, Leadership and Communication skills
+
 ##
+
 ### Projects: 
 ### **Capstone Project 1:**
   I developed a Python-based financial tool capable of performing various calculations for this project. Users can efficiently compute investment interest rates or mortgage repayments. The application features an intuitive menu system and robust error handling and leverages Python's math module for accurate compound interest calculations.
@@ -30,6 +35,7 @@
 - Error handling: Various error handling techniques were implemented to handle invalid inputs.
 
 **The shopping cart application provides a seamless shopping experience with efficient management of user items and personalized suggestions, enhancing the overall user experience.**
+
 ##
 
 ### **Education:**
@@ -38,6 +44,7 @@
 - **HyperionDev Bootcamp, Computer Software Engineering | Nov 2023 – Mar 2024**
 - **University of Bedfordshire student, Software Engineering | Sep 2023 - Jun 2026**
 - **OCR, Certificate of Professional Competence | National & International - Road Haulage | Jan 2016**
+  
 ##
 
 ### Connect:
@@ -49,7 +56,7 @@
 
 ### ⚡ Fun fact:
 
-  **I speak two languages fluently, Romanian and English, and I am currently learning Italian.**
+- **I speak two languages fluently, Romanian and English, and I am currently learning Italian.**
 
 <!---
 mcorco/mcorco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
