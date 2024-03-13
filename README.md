@@ -8,10 +8,10 @@
 - **Other Skills**: SQL, Object-oriented programing, Systems design, Organisational skills, Leadership and Communication skills
 
 ## Projects: 
-### **Capstone Project 1:**
+## **Capstone Project 1:**
   I developed a Python-based financial tool capable of performing various calculations for this project. Users can efficiently compute investment interest rates or mortgage repayments. The application features an intuitive menu system and robust error handling and leverages Python's math module for accurate compound interest calculations.
 
-### **Paws and cart application:** 
+## **Paws and cart application:** 
   **Shopping Cart Application**
 
 **This project implements a shopping cart functionality for users, allowing them to manage their items effectively.**
